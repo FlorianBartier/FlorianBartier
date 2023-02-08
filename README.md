@@ -4,8 +4,6 @@
 
 - 💻 I’m currently working on **JavaScript & React**
 - ✉️ You can reach me on : florianbartierpro@gmail.com
-
-
 - <h4 align="left">You can also find me on LinkedIn : <a href="https://www.linkedin.com/in/florianbartier/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florian-bartier" height="30" width="40" /></a></h4>
 
 <h3 align="center">Languages and Tools :</h3>
